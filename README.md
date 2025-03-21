@@ -1,18 +1,18 @@
 <h1 align="center">Fala aí! Eu sou o R4MALHO 😎</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&center=true&vCenter=true&width=500&lines=Arduino+%7C+C%2B%2B+%7C+CFTV+%7C+Projetos+DIY;Códigos%2C+fios+e+uma+ponta+de+solda!;Hobbista+curioso+e+apaixonado+por+tecnologia" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&center=true&vCenter=true&width=500&lines=Arduino%20%7C%20C%2B%2B%20%7C%20CFTV%20%7C%20Projetos%20DIY;Códigos%2C%20fios%20e%20uma%20ponta%20de%20solda!;Hobbista%20curioso%20e%20apaixonado%20por%20tecnologia" alt="Typing SVG" />
 </p>
 
 ---
 
 ## 🧰 Quem sou eu?
 
-- 🔌 Hobbista raiz, daqueles que desmonta antes de perguntar 😅
-- 👨‍💻 Brinco com C++, Arduino, eletrônica e projetos DIY no tempo livre
-- 📹 Metido com CFTV, reparos e mods em equipamentos de segurança
-- 🧠 Sempre fuçando coisas novas: de firmwares a automações malucas
-- 🔍 Às vezes viro detetive de bugs, às vezes só curto ver um LED piscando
+- 🔌 Hobbista raiz, daqueles que desmonta antes de perguntar 😅  
+- 👨‍💻 Brinco com C++, Arduino, eletrônica e projetos DIY no tempo livre  
+- 📹 Mexendo com CFTV, reparos e mods em equipamentos de segurança  
+- 🧠 Sempre fuçando coisas novas: de firmwares a automações malucas  
+- 🔍 Às vezes viro detetive de bugs, às vezes só curto ver um LED piscando  
 
 ---
 
@@ -32,7 +32,7 @@
 - 🔧 Controle de bomba d'água com ESP8266 + MQTT + App Inventor  
 - 📲 App em Java com OCR + Google Calendar  
 - 💾 Análise de firmwares e programação de EEPROMs  
-- 📹 Reparo e atualização de firmwares em DVRs (Dahua, etc.)
+- 📹 Reparo e atualização de firmwares em DVRs (Dahua, etc.)  
 
 ---
 
