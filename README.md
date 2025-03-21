@@ -1,7 +1,7 @@
 <h1 align="center">Fala aí! Eu sou o R4MALHO 😎</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&center=true&vCenter=true&width=500&lines=Arduino%20%7C%20C%2B%2B%20%7C%20CFTV%20%7C%20Projetos%20DIY;Códigos%2C%20fios%20e%20uma%20ponta%20de%20solda!;Hobbista%20curioso%20e%20apaixonado%20por%20tecnologia" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&center=true&vCenter=true&width=500&lines=Hobbista%20curioso%20e%20apaixonado;por%20tecnologia%2C%20CFTV%2C%20Arduino%20e%20C%2B%2B;Códigos%2C%20fios%20e%20um%20ferro%20de%20solda%20na%20mão!" alt="Typing SVG" />
 </p>
 
 ---
@@ -9,8 +9,9 @@
 ## 🧰 Quem sou eu?
 
 - 🔌 Hobbista raiz, daqueles que desmonta antes de perguntar 😅  
+- 🪛 Com um ferro de solda numa mão e um Arduino na outra  
 - 👨‍💻 Brinco com C++, Arduino, eletrônica e projetos DIY no tempo livre  
-- 📹 Mexendo com CFTV, reparos e mods em equipamentos de segurança  
+- 📹 Metido com CFTV, reparos e mods em equipamentos de segurança  
 - 🧠 Sempre fuçando coisas novas: de firmwares a automações malucas  
 - 🔍 Às vezes viro detetive de bugs, às vezes só curto ver um LED piscando  
 
