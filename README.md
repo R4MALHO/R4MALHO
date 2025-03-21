@@ -1,7 +1,7 @@
 <h1 align="center">Fala aí! Eu sou o R4MALHO 😎</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&center=true&vCenter=true&width=500&lines=Hobbista%20curioso%20e%20apaixonado;por%20tecnologia%2C%20CFTV%2C%20Arduino%20e%20C%2B%2B;Códigos%2C%20fios%20e%20um%20ferro%20de%20solda%20na%20mão!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&center=true&vCenter=true&width=500&lines=Hobbista%20curioso%20e%20apaixonado;por%20tecnologia%2C%20CFTV%2C%20Arduino%20e%20C%2B%2B;Códigos%2C%20e%20um%20ferro%20de%20solda%20na%20mão!" alt="Typing SVG" />
 </p>
 
 ---
